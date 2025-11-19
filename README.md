@@ -1,5 +1,3 @@
-# Secret-Knowledge-Inheritance-Protocol-
-
 # Secret-Knowledge-Inheritance-Protocol
 
 # Project Title
